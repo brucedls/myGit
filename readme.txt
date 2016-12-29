@@ -1,5 +1,5 @@
 Git 
-	is a version control system
+	is a distributed version control system
 
 
 
